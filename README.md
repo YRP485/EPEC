@@ -138,16 +138,11 @@ python EPEC_full.py
 
 If you use this code in your research, please cite our paper:
 
-```bibtex
-@article{yang2026epec,
-  title={Beyond side-by-side comparison: A unified evaluation framework for model selection in time series forecasting},
-  author={Ruoping Yang, Zhongliang Guan, and Xiang Xie},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2026}
-}
+```
+Yang, R., Guan, Z., & Xie, X. (2026). Beyond Side-by-Side Comparison: A Unified Evaluation Framework for Model Selection in Time Series Forecasting. IEEE Transactions on Knowledge and Data Engineering, 38(12), 8009–8023. https://doi.org/10.1109/tkde.2026.3734628
+
 ```
 
-*(The final citation will be updated upon publication.)*
 
 ---
 
